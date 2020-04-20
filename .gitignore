@@ -17,6 +17,9 @@ training_rsa
 *.swp
 build/
 build-old/
+build
+build*
+./build
 
 
 # Mac temp files

@@ -6,6 +6,9 @@
 Welcome to Sgt Random's Blog!
 =============================
 
+
+Testing content body
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
